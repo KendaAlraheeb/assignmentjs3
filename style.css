@@ -1,0 +1,44 @@
+
+
+
+body{
+    background-color: #A67665;
+    margin: 0;
+}
+.btn{
+    background-color: #733B36;
+    color: #ffff;
+    border: none;
+}
+h1{
+    font-family: Pacifico;
+    font-size: 50px;
+    font-weight: 500;
+    line-height:60px ;
+    color: #260401;
+}
+h3{
+    color: #260401;
+}
+
+.tttt{
+    
+}
+
+
+
+
+
+
+
+/* 
+
+.nav-link{
+    color:#333;
+    text-decoration: none;
+    padding-bottom: 15px;;
+}
+.nav-link:hover{
+border-bottom: 2px solid red;
+color: red;
+} */
